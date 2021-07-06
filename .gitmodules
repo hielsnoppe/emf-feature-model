@@ -1,0 +1,3 @@
+[submodule "org.eclipse.featuremodel.metamodel"]
+	path = org.eclipse.featuremodel.metamodel
+	url = git@github.com:hielsnoppe/org.eclipse.featuremodel.metamodel.git
